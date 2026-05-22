@@ -1,7 +1,7 @@
 {
-  "name": "xyzth-bot",
+  "name": "bot-24-7",
   "version": "1.0.0",
-  "description": "Bot de Discord 24/7",
+  "description": "Bot de Discord",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
